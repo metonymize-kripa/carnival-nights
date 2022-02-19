@@ -37,7 +37,7 @@ export default function initConfettiSystem(canvasEl) {
   const options = {
     particleCount: 90,
     radiusRatio: 0.008,
-    animDelay: 600,
+    animDelay: 6000,
     noInteractionWait: 5000,
     velocityFactor: 0.075,
     decay: 0.94,
