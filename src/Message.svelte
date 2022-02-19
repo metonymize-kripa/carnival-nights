@@ -6,14 +6,14 @@
 </script>
 
 <svelte:head>
-  <title>Season’s greetings from {$from}</title>
-  <meta name="description" content="From {$from}" />
+  <title>Welcome to {$from}</title>
+  <meta name="description" content="Welcome from {$from}" />
 </svelte:head>
 
 {#if visible}
 <section transition:fade="{{ delay: 200 }}" class="message">
-  <h1 class="headline">Season&rsquo;s Greetings</h1>
-  <p class="from">from</p>
+  <h1 class="headline">Activate your Intention!</h1>
+  <p class="from">with best wishes from</p>
   <p class="name">{$from}</p>
 </section>
 {:else}
