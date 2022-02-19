@@ -18,8 +18,7 @@
       ></path></svg
     >source</a
   >
-  <a href="https://varun.ca">varun.ca</a>
-  <a href="https://varun.ca/confetti">tutorial</a>
+  <a href="https://varun.ca">Credit and thanks to varun.ca</a>
 </footer>
 
 <style>
